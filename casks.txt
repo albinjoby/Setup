@@ -1,0 +1,15 @@
+#xargs brew install < casks.txt
+
+firefox@developer-edition
+figma
+warp
+visual-studio-code
+docker
+postman
+telegram
+hiddenbar
+rectangle
+raycast
+miniconda
+node
+android-file-transfer
