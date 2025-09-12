@@ -1,13 +1,11 @@
-firefox@developer-edition
 figma
 warp
 visual-studio-code
+zed
 docker
 postman
-telegram
-hiddenbar
-rectangle
 raycast
 miniconda
-node
-android-file-transfer
+protonvpn 
+chatgpt  
+arc 

@@ -2,4 +2,4 @@ cmatrix
 bat
 node
 thefuck
-luap
+postgresql@17
